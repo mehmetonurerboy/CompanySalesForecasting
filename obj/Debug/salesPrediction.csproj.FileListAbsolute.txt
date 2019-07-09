@@ -1,0 +1,113 @@
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\salesPrediction.exe.config
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\obj\Debug\salesPrediction.csprojResolveAssemblyReference.cache
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\salesPrediction.exe
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\salesPrediction.pdb
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.dll
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.dll
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.pdb
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.xml
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.pdb
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.xml
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.pdb
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.pdb
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.xml
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.pdb
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\obj\Debug\salesPrediction.exe
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\obj\Debug\salesPrediction.pdb
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\obj\Debug\salesPrediction.View.View.resources
+C:\Users\kral_\Documents\Visual Studio 2015\Projects\salesPrediction\salesPrediction\obj\Debug\salesPrediction.csproj.GenerateResource.Cache
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\salesPrediction.exe.config
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\obj\Debug\salesPrediction.exe
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\obj\Debug\salesPrediction.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\salesPrediction.exe
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\salesPrediction.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\obj\Debug\salesPrediction.csprojResolveAssemblyReference.cache
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\obj\Debug\salesPrediction.View.View.resources
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\05.05.2019 - YEDEK\salesPrediction\salesPrediction\obj\Debug\salesPrediction.csproj.GenerateResource.Cache
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\salesPrediction.exe.config
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\obj\Debug\salesPrediction.exe
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\obj\Debug\salesPrediction.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\obj\Debug\salesPrediction.csprojResolveAssemblyReference.cache
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\obj\Debug\salesPrediction.View.View.resources
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\obj\Debug\salesPrediction.csproj.GenerateResource.Cache
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\salesPrediction.exe
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\salesPrediction.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\datadaYüzdeDeneme\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\salesPrediction.exe.config
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\obj\Debug\salesPrediction.exe
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\obj\Debug\salesPrediction.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\salesPrediction.exe
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\salesPrediction.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\obj\Debug\salesPrediction.csprojResolveAssemblyReference.cache
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\obj\Debug\salesPrediction.View.View.resources
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\grafik arayüz denemesi\salesPrediction\salesPrediction\obj\Debug\salesPrediction.csproj.GenerateResource.Cache
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\salesPrediction.exe.config
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\obj\Debug\salesPrediction.exe
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\obj\Debug\salesPrediction.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\salesPrediction.exe
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\salesPrediction.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\obj\Debug\salesPrediction.csprojResolveAssemblyReference.cache
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\obj\Debug\salesPrediction.View.View.resources
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\bazıHataGüncellemeleri\salesPrediction\salesPrediction\obj\Debug\salesPrediction.csproj.GenerateResource.Cache
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\salesPrediction.exe.config
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\obj\Debug\salesPrediction.exe
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\obj\Debug\salesPrediction.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\salesPrediction.exe
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\salesPrediction.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\MongoDB.Bson.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Core.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.GridFS.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.pdb
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\obj\Debug\salesPrediction.csprojResolveAssemblyReference.cache
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\obj\Debug\salesPrediction.View.View.resources
+D:\Memo\PERSONAL ITEMS\LESSON ITEMS\SIXTH TERM\COMPUTER PROJECT\Kod\RECENT CODE\salesPrediction\salesPrediction\obj\Debug\salesPrediction.csproj.GenerateResource.Cache

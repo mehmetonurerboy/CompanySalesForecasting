@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="salesPrediction.algorithms.ExponentialSmoothing" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAgAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>algorithms\ExponentialSmoothing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="salesPrediction.algorithms.MovingAverage" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>algorithms\MovingAverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="salesPrediction.algorithms.PriceAnnualAverage" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>algorithms\PriceAnnualAverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="salesPrediction.algorithms.Regression" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAABAgCAAAEAAAIAAAAAggAAAQAAEAAAAAAAAAA=</HashCode>
+      <FileName>algorithms\Regression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="salesPrediction.algorithmService" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAQAQAAAEAIAAAAAAAgAQAAAIAA=</HashCode>
+      <FileName>algorithmService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="salesPrediction.MongoDBService" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAABIAAAgIBEAAAMAAAwSAAAAQQAAAAAAAAEAAgkA=</HashCode>
+      <FileName>MongoDBService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="salesPrediction.Program" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="salesPrediction.View.View" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BUC2MQSKIicYFBUCCtSiRYi24mBoUkRXmmAE0SHMBEA=</HashCode>
+      <FileName>View\View.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
